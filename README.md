@@ -26,31 +26,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,react,ts,js,nodejs,python,cpp,postgres,docker,git,github,vscode,figma&perline=9" alt="Tech stack" />
 </p>
 
-### 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Church Portal**](https://github.com/Kerollosmm/church-portal) | Public portal for a Coptic church in Alexandria, live at [maximos-domadios-church.web.app](https://maximos-domadios-church.web.app) | Flutter Web · Firebase |
-| [**Church Servants Manager**](https://github.com/Kerollosmm/Church-servants-manager) | Attendance and management app for church servants | Flutter · Firebase |
-| [**Tasky**](https://github.com/Kerollosmm/Tasky) | Task tracker with a full backend | Flutter · Node.js · PostgreSQL · Docker |
-| [**Notely**](https://github.com/Kerollosmm/Notely) | Notes app with local SQL storage and cloud sync | Flutter · SQLite · Firebase |
-| [**Workout Tracker**](https://github.com/Kerollosmm/workout-Tracker) | Track workouts and progress | Flutter · Dart |
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kerollosmm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerollosmm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kerollosmm&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kerollosmm&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
-</p>
-
 ### 🤝 Connect
 
 <p align="center">
